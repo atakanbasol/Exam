@@ -1,4 +1,4 @@
-package com.atakanbasol;
+package com.atakanbasol.exam;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.boot.SpringApplication;

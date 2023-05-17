@@ -1,8 +1,3 @@
-![](https://komarev.com/ghpvc/?username=hamitmizrak)
-
-![readme](./picture/readme.jpg)
-
-
 ---
 ## RolMap
 
@@ -15,7 +10,7 @@ OpenApiConfiguration
 
 ### Exception
 ```sh
-HamitMizrakException
+AtakanBasolException
 ResourceAuthorizedException
 ResourceNotFoundException
 ResourceCreatedException
@@ -32,11 +27,11 @@ IRegisterRepository
 
 
 ---
-#  Java Full Stack Developer -7 (1 Nisan  2023)
-* [GitHub](https://github.com/hamitmizrak/EcodationAllBlogProject7)
+#  Java Full Stack Developer - Atakan Başol (1 Mayıs  2023)
+* [GitHub](https://github.com/atakanbasol/Exam)
 * 
 ### Gereksinimler
-Java 19
+Java 17
 intellij idea Ultimate 
 Visual Studio Code
 Node js
